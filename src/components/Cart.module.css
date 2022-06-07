@@ -1,0 +1,12 @@
+.header{
+    color :goldenrod;
+    font-size: 30px;
+}
+
+.cart{
+    height: 50vw;
+    width: 400px;
+    box-shadow: 0 3px 10px black;
+    position: sticky;
+    top: 0%;
+}

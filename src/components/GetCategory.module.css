@@ -1,0 +1,27 @@
+.block {
+    height: 163px;
+    width: 380px;
+    box-shadow: 0 3px 10px rgb(199, 96, 17);
+    display: inline-block;
+    margin: 30px;
+    padding-top: 60px;
+    box-sizing: border-box;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: auto;
+    cursor: pointer;
+}
+
+.block:hover{
+    background-color: goldenrod;
+    color: red
+}
+
+a {
+    text-decoration: none;
+    color: rgb(69, 59, 35);
+}
+
+a:hover {
+    color: red
+  }
